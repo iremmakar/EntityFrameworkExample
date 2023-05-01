@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\ReCapProject\Coree\bin\Debug\net5.0\Coree.deps.json
+C:\Users\Acer\source\repos\ReCapProject\Coree\bin\Debug\net5.0\Coree.dll
+C:\Users\Acer\source\repos\ReCapProject\Coree\bin\Debug\net5.0\Coree.pdb
+C:\Users\Acer\source\repos\ReCapProject\Coree\obj\Debug\net5.0\Coree.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ReCapProject\Coree\obj\Debug\net5.0\Coree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ReCapProject\Coree\obj\Debug\net5.0\Coree.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ReCapProject\Coree\obj\Debug\net5.0\Coree.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ReCapProject\Coree\obj\Debug\net5.0\Coree.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ReCapProject\Coree\obj\Debug\net5.0\Coree.dll
+C:\Users\Acer\source\repos\ReCapProject\Coree\obj\Debug\net5.0\refint\Coree.dll
+C:\Users\Acer\source\repos\ReCapProject\Coree\obj\Debug\net5.0\Coree.pdb
+C:\Users\Acer\source\repos\ReCapProject\Coree\obj\Debug\net5.0\ref\Coree.dll
